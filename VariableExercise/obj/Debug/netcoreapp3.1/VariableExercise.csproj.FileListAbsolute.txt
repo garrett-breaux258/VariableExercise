@@ -1,0 +1,12 @@
+/Users/Garrett/Desktop/repos/VariableExercise/VariableExercise/bin/Debug/netcoreapp3.1/VariableExercise.deps.json
+/Users/Garrett/Desktop/repos/VariableExercise/VariableExercise/bin/Debug/netcoreapp3.1/VariableExercise.runtimeconfig.json
+/Users/Garrett/Desktop/repos/VariableExercise/VariableExercise/bin/Debug/netcoreapp3.1/VariableExercise.runtimeconfig.dev.json
+/Users/Garrett/Desktop/repos/VariableExercise/VariableExercise/bin/Debug/netcoreapp3.1/VariableExercise.dll
+/Users/Garrett/Desktop/repos/VariableExercise/VariableExercise/bin/Debug/netcoreapp3.1/VariableExercise.pdb
+/Users/Garrett/Desktop/repos/VariableExercise/VariableExercise/obj/Debug/netcoreapp3.1/VariableExercise.csprojAssemblyReference.cache
+/Users/Garrett/Desktop/repos/VariableExercise/VariableExercise/obj/Debug/netcoreapp3.1/VariableExercise.AssemblyInfoInputs.cache
+/Users/Garrett/Desktop/repos/VariableExercise/VariableExercise/obj/Debug/netcoreapp3.1/VariableExercise.AssemblyInfo.cs
+/Users/Garrett/Desktop/repos/VariableExercise/VariableExercise/obj/Debug/netcoreapp3.1/VariableExercise.csproj.CoreCompileInputs.cache
+/Users/Garrett/Desktop/repos/VariableExercise/VariableExercise/obj/Debug/netcoreapp3.1/VariableExercise.dll
+/Users/Garrett/Desktop/repos/VariableExercise/VariableExercise/obj/Debug/netcoreapp3.1/VariableExercise.pdb
+/Users/Garrett/Desktop/repos/VariableExercise/VariableExercise/obj/Debug/netcoreapp3.1/VariableExercise.genruntimeconfig.cache

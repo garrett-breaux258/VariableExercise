@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{06C2D861-E463-49EC-82B5-4815B6317AA7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VariableExercise/Program.cs">
+    <Files>
+      <File FileName="VariableExercise/Program.cs" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VariableExercise" expanded="True">
+            <Node name="VariableExercise" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.VariableExercise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
